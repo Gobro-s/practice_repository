@@ -1,4 +1,4 @@
-1st change
+## 2023.1 semester TIL
 
-2nd change
-git status
+- [ALGORITHM](https://github.com/Gobro-s/TIL/tree/master/algorythm)
+- [python](https://github.com/Gobro-s/TIL/tree/master/python)
